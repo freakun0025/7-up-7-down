@@ -10,7 +10,7 @@ This is a beginner frontend project called **7up and 7down**. It is created usin
 
 You can access the live demo of the project hosted on Netlify:
 
-[7up and 7down - Live Demo](https://your-netlify-site-url.netlify.app)
+[7up and 7down - Live Demo](https://7-up7-down.netlify.app/)
 
 ## Features
 
